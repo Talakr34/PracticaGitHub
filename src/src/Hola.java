@@ -3,5 +3,6 @@ public class Hola {
         System.out.println("Hola mundo");
         System.out.println("Linea nueva 1");
         System.out.println("Linea nueva 2");
+        System.out.println("Nueva informacion");
     }
 }
